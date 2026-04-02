@@ -68,4 +68,3 @@ Este projeto foi desenvolvido para fins de aprendizado e prática, aplicando con
 🎓 Estudante de Informática para Negócios - FATEC Rio Preto
 🎓 Técnico em Informática - Senac Rio Preto
 💻 Interessado em Desenvolvimento, Dados e Tecnologia
-[1]: https://github.com/algaworks/curso-especialista-spring-rest?utm_source=chatgpt.com "GitHub - algaworks/curso-especialista-spring-rest: Projeto do curso Especialista Spring REST da AlgaWorks"
