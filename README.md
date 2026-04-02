@@ -23,8 +23,11 @@ A aplicação segue boas práticas de desenvolvimento backend, utilizando uma es
 ## 🛠️ Tecnologias Utilizadas
 
 **Backend:** Java + Spring Boot
+
 **Banco de Dados:** MySQL (ou outro, conforme configuração)
+
 **Build Tool:** Maven
+
 **Outros:** API REST, Arquitetura em Camadas
 
 ---
