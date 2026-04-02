@@ -4,15 +4,18 @@
 
 Este projeto foi desenvolvido com o objetivo de criar uma **aplicação backend utilizando Spring Boot**, explorando os primeiros conceitos do framework e a construção de APIs REST.
 
-A aplicação segue boas práticas de desenvolvimento backend, utilizando uma estrutura organizada em camadas, padrão amplamente utilizado em projetos Java com Spring Boot ([GitHub][1]).
+A aplicação segue boas práticas de desenvolvimento backend, utilizando uma estrutura organizada em camadas, padrão amplamente utilizado em projetos Java com Spring Boot.
 
 ---
 
 ## 🧠 Funcionalidades
 
 ✅ Criação de endpoints REST
+
 ✅ Estruturação em camadas (Controller, Service, Repository)
+
 ✅ Manipulação de dados no backend
+
 ✅ Integração com banco de dados
 
 ---
@@ -65,6 +68,9 @@ Este projeto foi desenvolvido para fins de aprendizado e prática, aplicando con
 ## 👨‍💻 Autor
 
 **Pedro Afonso Paulina Ataide**
+
 🎓 Estudante de Informática para Negócios - FATEC Rio Preto
+
 🎓 Técnico em Informática - Senac Rio Preto
+
 💻 Interessado em Desenvolvimento, Dados e Tecnologia
